@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.646b77bc.css",
-    "main.js": "/static/js/main.9653d7e5.js",
-    "static/js/151.9135fede.chunk.js": "/static/js/151.9135fede.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.646b77bc.css.map": "/static/css/main.646b77bc.css.map",
-    "main.9653d7e5.js.map": "/static/js/main.9653d7e5.js.map",
-    "151.9135fede.chunk.js.map": "/static/js/151.9135fede.chunk.js.map"
+    "main.css": "/RavAuraTracker/static/css/main.646b77bc.css",
+    "main.js": "/RavAuraTracker/static/js/main.366afdb9.js",
+    "static/js/151.9135fede.chunk.js": "/RavAuraTracker/static/js/151.9135fede.chunk.js",
+    "service-worker.js": "/RavAuraTracker/service-worker.js",
+    "index.html": "/RavAuraTracker/index.html",
+    "main.646b77bc.css.map": "/RavAuraTracker/static/css/main.646b77bc.css.map",
+    "main.366afdb9.js.map": "/RavAuraTracker/static/js/main.366afdb9.js.map",
+    "151.9135fede.chunk.js.map": "/RavAuraTracker/static/js/151.9135fede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.646b77bc.css",
-    "static/js/main.9653d7e5.js"
+    "static/js/main.366afdb9.js"
   ]
 }
